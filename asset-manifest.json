@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ciphershastra/static/css/main.86953032.css",
-    "main.js": "/ciphershastra/static/js/main.cb0ac8d1.js",
+    "main.js": "/ciphershastra/static/js/main.ab7d7e97.js",
     "static/js/453.f71d20af.chunk.js": "/ciphershastra/static/js/453.f71d20af.chunk.js",
     "index.html": "/ciphershastra/index.html",
     "main.86953032.css.map": "/ciphershastra/static/css/main.86953032.css.map",
-    "main.cb0ac8d1.js.map": "/ciphershastra/static/js/main.cb0ac8d1.js.map",
+    "main.ab7d7e97.js.map": "/ciphershastra/static/js/main.ab7d7e97.js.map",
     "453.f71d20af.chunk.js.map": "/ciphershastra/static/js/453.f71d20af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86953032.css",
-    "static/js/main.cb0ac8d1.js"
+    "static/js/main.ab7d7e97.js"
   ]
 }
