@@ -1,53 +1,128 @@
-# Getting Started with Create React App
+# CipherShastra 🛡️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive Web3 Security Learning Platform built with React and Tailwind CSS. CipherShastra provides an interactive environment for learning smart contract security through hands-on challenges, educational resources, and community engagement.
 
-## Available Scripts
+## 🌟 Features
 
-In the project directory, you can run:
+- **🌓 Dark/Light Mode**: Complete theme switching with persistent preferences
+- **📚 Learning Resources**: Curated collection of security guides, tools, and educational content
+- **🛣️ Interactive Roadmap**: Step-by-step learning path with progress tracking
+- **🎯 Security Challenges**: Hands-on smart contract hacking challenges
+- **🏆 Leaderboard**: Competitive ranking system with detailed player profiles
+- **📱 Responsive Design**: Optimized for all devices and screen sizes
+- **⚡ Modern UI**: Professional interface with smooth animations and transitions
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Visit the live application: [https://razzor-codes.github.io/ciphershastra](https://razzor-codes.github.io/ciphershastra)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **Frontend**: React 19, React Router DOM
+- **Styling**: Tailwind CSS, React Icons
+- **Build Tool**: Create React App
+- **Deployment**: GitHub Pages
+- **State Management**: React Context API
+- **Web3 Integration**: Ethers.js
+- **Code Highlighting**: React Syntax Highlighter
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📦 Installation & Setup
 
-### `npm run build`
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/razzor-codes/ciphershastra.git
+   cd ciphershastra
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Start development server**
+   ```bash
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
 
-### `npm run eject`
+5. **Deploy to GitHub Pages**
+   ```bash
+   npm run deploy
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🎯 Key Pages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **🏠 Home**: Welcome page with platform overview and statistics
+- **📚 Resources**: Categorized learning materials with search and filtering
+- **🛣️ Roadmap**: Interactive learning path with progress tracking
+- **🏆 Leaderboard**: Competitive rankings with detailed player analytics
+- **🎮 Challenges**: Security challenge pages (e.g., Gambler contract)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌟 Key Components
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Theme System**: Dark/light mode with localStorage persistence
+- **Navigation**: Responsive navbar and sidebar with smooth transitions
+- **Interactive Cards**: Hover effects and animations throughout
+- **Modal System**: Player profiles and detailed information overlays
+- **Progress Tracking**: Local storage-based progress management
 
-## Learn More
+## 🔧 Features Overview
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🌓 Theme System
+- Comprehensive dark/light mode implementation
+- Persistent theme preferences
+- Smooth color transitions
+- System preference detection
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 📚 Resource Management
+- Category-based organization
+- Search and filtering capabilities
+- Rating and difficulty systems
+- External link integration
 
-### Code Splitting
+### 🏆 Competitive Elements
+- Player ranking system
+- Achievement tracking
+- Challenge completion metrics
+- Community features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🎮 Interactive Challenges
+- Smart contract security challenges
+- Code viewer with syntax highlighting
+- Vulnerability identification exercises
+- Hands-on learning approach
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **React Team**: For the amazing React framework
+- **Tailwind CSS**: For the utility-first CSS framework
+- **React Icons**: For the comprehensive icon library
+- **Web3 Community**: For inspiration and educational resources
+
+## 📞 Contact
+
+- **GitHub**: [@razzor-codes](https://github.com/razzor-codes)
+- **Project Link**: [https://github.com/razzor-codes/ciphershastra](https://github.com/razzor-codes/ciphershastra)
+
+---
+
+⚡ **Built with passion for Web3 Security Education** ⚡
 
 ### Analyzing the Bundle Size
 
