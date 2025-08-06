@@ -11,7 +11,7 @@ import Gambler from "./pages/challenges/Gambler";
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/ciphershastra">
         <div className="flex min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 relative transition-colors duration-300">
           <Sidebar />
           <div className="flex-1 flex flex-col relative">
